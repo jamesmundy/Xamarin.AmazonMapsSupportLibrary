@@ -53,6 +53,12 @@
   <ItemGroup>
     <EmbeddedJar Include="Jars\MapsAPISupportLibrary.jar" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedJar Include="Jars\MapsAPIClientLib.jar" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedJar Include="Jars\MapsAPIDelegateLibrary.jar" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
