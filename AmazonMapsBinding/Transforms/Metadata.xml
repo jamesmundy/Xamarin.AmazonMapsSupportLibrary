@@ -1,0 +1,19 @@
+<metadata>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2']/class[@name='StreetViewPanoramaOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='VisibleRegionCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='TileOverlayOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='TileCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='StreetViewPanoramaOrientationCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='StreetViewPanoramaLocationCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='StreetViewPanoramaLinkCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='StreetViewPanoramaCameraCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='PolylineOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='PolygonOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='LatLngCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2']/class[@name='AmazonMapOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='CircleOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='GroundOverlayOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='CameraPositionCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='MarkerOptionsCreator']"/>
+  <remove-node path="/api/package[@name='com.amazon.geo.mapsv2.model']/class[@name='LatLngBoundsCreator']"/>
+</metadata>
